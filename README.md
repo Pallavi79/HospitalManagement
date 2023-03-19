@@ -11,5 +11,3 @@ The main facilities will be available in this project are:-
 - Providing and maintaining all records of stock medicine through two subcategory central-store and sub-store. 
 -	The system will keep all tracks of newly purchased medicine and also monitoring their flow.
 -	Billing report for the patient who are employee and Report generation.
--	If user forgets his/her password then it can be retrieved by hint question.
-
